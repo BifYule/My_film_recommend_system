@@ -1,0 +1,1 @@
+mubandenglv文件夹是vue前端框架，打包后，可以直接启动django服务
